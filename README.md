@@ -26,9 +26,5 @@ The Quantitative Stock Portfolio Advisor is a data-driven application designed t
 5. **Run the Notebook**:  
    Open the `.ipynb` file in your preferred environment (e.g., Jupyter Notebook) and execute the cells.
 
----
-
 ## Output
 The program will generate a file named `Final_Portfolio.csv`, which contains the selected stocks and their optimal weights in the portfolio.
-```
-![Screenshot 2024-12-24 125009](https://github.com/user-attachments/assets/f97ad851-5a95-4ba4-bd5c-ed516b6669c0)
