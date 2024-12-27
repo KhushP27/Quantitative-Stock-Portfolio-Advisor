@@ -28,3 +28,6 @@ The Quantitative Stock Portfolio Advisor is a data-driven application designed t
 
 ## Output
 The program will generate a file named `Final_Portfolio.csv`, which contains the selected stocks and their optimal weights in the portfolio.
+
+![Screenshot 2024-12-24 125009](https://github.com/user-attachments/assets/886cbcf7-1b78-4031-9921-6c1a9b7704d1)
+
